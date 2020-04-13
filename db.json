@@ -30,5 +30,40 @@
       "name": "Sujit Kumar",
       "email": "sujit@gmail.com"
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Exotel hackathon",
+      "description": "",
+      "skills": [],
+      "postedBy": {
+        "userId": 4,
+        "name": "Rohit",
+        "avatar": ""
+      }
+      "members": [
+        {
+          "userId": 4,
+          "avatar": ""
+        },
+        {
+          "userId": 1,
+          "avatar": ""
+        },
+        {
+          "userId": 2,
+          "avatar": ""
+        },
+        {
+          "userId": 5,
+          "avatar": ""
+        },
+        {
+          "userId": 6,
+          "avatar": ""
+        }
+      ]
+    }
   ]
 }
