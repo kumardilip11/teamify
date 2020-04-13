@@ -9,6 +9,26 @@
       "id": 2,
       "name": "Ravi Prakash",
       "email": "ravi.prakash@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ravinder Baid",
+      "email": "ravi.lonely3@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Rohit",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Prakash",
+      "email": "prakash@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Sujit Kumar",
+      "email": "sujit@gmail.com"
     }
   ]
 }
