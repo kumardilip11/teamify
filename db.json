@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "namme": "Dilip Kumar",
+      "email": "d4dilip7@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ravi Prakash",
+      "email": "ravi.prakash@gmail.com"
+    }
+  ]
+}
