@@ -35,7 +35,7 @@
     {
       "id": 1,
       "title": "Exotel hackathon",
-      "description": "",
+      "description": "This hackathon is hosted by exotel, postman and sendgrid.",
       "skills": [],
       "postedBy": {
         "userId": 4,
