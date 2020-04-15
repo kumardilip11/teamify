@@ -29,6 +29,26 @@
       "id": 6,
       "name": "Sujit Kumar",
       "email": "sujit@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Anant Kumar",
+      "email": "anant@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Ankit Dayal",
+      "email": "anktdayal@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Nikhil Raj",
+      "email": "nik@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Devjyoti Paul",
+      "email": "dev@gmail.com"
     }
   ],
   "projects": [
@@ -43,33 +63,58 @@
         "avatar": ""
       },
       "postedAt": "2019-10-12T07:20:50.52Z",
-      "members": [
+      "approaches": [
         {
-          "userId": 4,
-          "name": "Rohit",
-          "avatar": "https://source.unsplash.com/nOfMXvdfgqg/64x64"
+          "userId": 5,
+          "approachedAt": "2019-10-12T10:20:50.52Z"
         },
+        {
+          "userId": 10,
+          "approachedAt": "2020-04-14T07:20:50.52Z"
+        }
+      ],
+      "members": [
         {
           "userId": 1,
           "name": "Dilip Kumar",
-          "avatar": "https://source.unsplash.com/57JLofMLOAU/64x64"
+          "avatar": "https://source.unsplash.com/57JLofMLOAU/64x64",
+          "since": "2019-10-12T07:20:50.52Z"
+        },
+        {
+          "userId": 7,
+          "name": "Anant Kumar",
+          "avatar": "https://source.unsplash.com/57JLofMLOAU/64x64",
+          "since": "2020-04-12T07:20:50.52Z"
         },
         {
           "userId": 2,
           "name": "Ravi Prakash",
-          "avatar": "https://source.unsplash.com/St08jKkPVHw/64x64"
-        },
-        {
-          "userId": 5,
-          "name": "Prakash",
-          "avatar": "https://source.unsplash.com/OhKElOkQ3RE/64x64"
-        },
-        {
-          "userId": 6,
-          "name": "sujit",
-          "avatar": "https://source.unsplash.com/RgplfXbxLFs/64x64"
+          "avatar": "https://source.unsplash.com/St08jKkPVHw/64x64",
+          "since": "2019-12-24T07:20:50.52Z"
         }
       ]
+    }
+  ],
+  "avtars": [
+    {
+      "userId": 4,
+      "64x64": "https://source.unsplash.com/nOfMXvdfgqg/64x64"
+    },
+    {
+      "userId": 1,
+      "64x64": "https://source.unsplash.com/57JLofMLOAU/64x64"
+    },
+    {
+      "userId": 2,
+      "64x64": "https://source.unsplash.com/St08jKkPVHw/64x64"
+    },
+    {
+      "userId": 5,
+      "64x64": "https://source.unsplash.com/OhKElOkQ3RE/64x64"
+    },
+    {
+      "userId": 6,
+      "64x64": "https://source.unsplash.com/RgplfXbxLFs/64x64"
     }
   ]
 }
